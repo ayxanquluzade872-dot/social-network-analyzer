@@ -1,0 +1,7 @@
+{
+  "Ali": ["Veli", "Aysel"],
+  "Veli": ["Ali", "Murad", "Leyla"],
+  "Aysel": ["Ali", "Leyla"],
+  "Murad": ["Veli"],
+  "Leyla": ["Veli", "Aysel"]
+}
