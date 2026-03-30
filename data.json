@@ -1,6 +1,6 @@
 {
-  "Ali": ["Veli", "Aysel"],
-  "Veli": ["Ali", "Murad", "Leyla"],
+  "@ayghluzde": ["@nasimi.999", "@nijat.isr", "@aydnghyv", "@yaestnika", "@avham0n", "@slyman.hebl", "@tefmaalrex", "@o_orduxan7", "@sadiq.azizli", "@turan_velizade_qabala"],
+  "@nasimi.999": ["Ali", "Murad", "Leyla"],
   "Aysel": ["Ali", "Leyla"],
   "Murad": ["Veli"],
   "Leyla": ["Veli", "Aysel"]
